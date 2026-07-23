@@ -1,0 +1,46 @@
+World Shape — Google Play Store Listing
+com.ittityu.WorldShape
+https://kadeshagency.github.io/privacy/worldshape_privacy_policy.html
+=====================================
+
+App name:
+  World Shape — Country Shape Quiz
+
+Short description (max 80 chars):
+  Name the country by its shape. 91 puzzles built from real map data.
+
+Full description:
+---------------------------------------------------------------
+World Shape is a geography quiz built entirely around country outlines.
+
+No borders, no labels, no map context — just a country's true shape, drawn
+from real geographic boundary data and simplified for clarity. Pick the
+right country from four choices. Wrong guesses are marked so you can try
+again; your star rating depends on how many guesses it took.
+
+FEATURES
+• 91 puzzles across three atlases
+   – Familiar Shores (iconic, instantly recognizable)
+   – Uncharted (well-known, takes a moment)
+   – Deep Atlas (for true geography buffs)
+• Shapes built from real-world boundary data, not approximations
+• Multiple-choice answers drawn from the same region for a genuine
+  challenge — no trivially obvious mismatches
+• Earn up to three stars per puzzle for guessing right the first time
+• Antique-atlas visuals: parchment World Shape board, brass accents
+• Calm ambient soundtrack and tactile feedback — both toggleable
+• Fully offline. No ads, no accounts, no tracking. Progress stays on your
+  device.
+
+Name the country by its shape.
+
+Category: Puzzle / Trivia
+Content rating: Everyone
+Tags: geography quiz, country quiz, world map, trivia, offline, no ads
+---------------------------------------------------------------
+
+ASSETS INCLUDED
+  - assets/icon.png            (512x512 app icon)
+  - assets/feature_graphic.png (1024x500 feature graphic)
+  - screens/                   (5 Play Store screenshots, 1080x1920)
+  - PRIVACY_POLICY.html        (host this and link it in the listing)
